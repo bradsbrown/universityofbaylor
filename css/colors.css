@@ -1,0 +1,10 @@
+#grey {
+    background-color: rgb(176, 176, 176)
+}
+#yellow {
+    background-color: rgb(241, 244, 143)
+}
+#black {
+    background-color: black;
+    color: white
+}
